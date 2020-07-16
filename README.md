@@ -18,8 +18,9 @@ Alzheimer’s Disease associated and unassociated.
 Revealing Alzheimer’s disease genes spectrum in the whole-genome by machine
 learning.
 
-The research paper by Huang et al. on Revealing Alzheimer’s disease genes spectrum in the whole-genome by machine learning was used as a reference for this project.
+The <a href = "https://pubmed.ncbi.nlm.nih.gov/29320986/">research paper</a> by Huang et al. on Revealing Alzheimer’s disease genes spectrum in the whole-genome by machine learning was used as a reference for this project.
 
-<img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/ResearchPaper.PNG" width = 100>
+<img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/ResearchPaper.PNG" width = "1000">
 
 **Dataset**
+The dataset used in the above-mentioned research paper was taken from the <a href = "http://www.alzgene.org/"> AlzGene archive </a>. The featurs include number of positive and negative Alzheimer's cases in control studies and family-based studies.
