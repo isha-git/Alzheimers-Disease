@@ -38,7 +38,9 @@ The followed algorithms were trained on the given dataset-
 
 5. Decision Trees
 
+<img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/Results.PNG" width = "800">
+
 Of these, desicion trees gave the best accuracy (88.29%). However, the highest Receiver Operating Characteristic (ROC) curve area of 0.78 was obtained using Radial kernel.
 
-# Team Members
+**Team Members**
 The project was developed with <a href = "https://github.com/jagriti04">Jagriti</a> and <a href="https://github.com/shripriyamaheshwari">Shripriya Maheshwari</a> for the Machine Learning course (CS314b) at the Indian Instiute of Information Technology, Design and Manufacturing, Jabalpur, India.
