@@ -13,9 +13,11 @@ Various machine learning algorithms have been used to predict candidate genes. P
 
 5. Information about tissue-specific networks
 
-These methods predict associated genes or biomarkers. However, there are few reports on brain gene expression data. Accordingly, the <a href = "https://pubmed.ncbi.nlm.nih.gov/29320986/">research paper</a> by Huang et al. on *Revealing Alzheimer’s disease genes spectrum in the whole-genome by machine learning* was used as a reference for this project.
+These methods predict associated genes or biomarkers. However, there are few reports on brain gene expression data. Accordingly, the <a href = "https://bmcneurol.biomedcentral.com/articles/10.1186/s12883-017-1010-3">research paper</a> by Huang et al. on *Revealing Alzheimer’s disease genes spectrum in the whole-genome by machine learning* was used as a reference for this project.
 
 <img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/ResearchPaper.PNG" width = "800">
+
+The aim is to divide the genes into five classes, namely C1-AD: probable pathogenic genes, C2-AD: high confidence genes, C3-AD: related genes, and C4-AD: possibly associated genes.
 
 # Libraries
 1. Numpy
@@ -55,6 +57,8 @@ The followed algorithms were trained on the given dataset-
 
 **Of these, desicion trees gave the best accuracy (88.29%). <br>
 However, the highest Receiver Operating Characteristic (ROC) curve area of 0.78 was obtained using Support Vector Machine with Radial kernel.**
+
+Note- The results on Support Vector Machine using R library were provided in the paper and were not reproduced by us.
 
 # Team Members
 The project was developed with <a href = "https://github.com/jagriti04">Jagriti</a> and <a href="https://github.com/shripriyamaheshwari">Shripriya Maheshwari</a> for the Machine Learning course (CS314b) at the Indian Instiute of Information Technology, Design and Manufacturing, Jabalpur, India.
