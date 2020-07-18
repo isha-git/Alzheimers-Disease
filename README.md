@@ -54,7 +54,7 @@ The followed algorithms were trained on the given dataset-
 
 **The algorithms were evaluated on micro average, macro average, and weighted average of their accuracy, precision, F-1 score and support results on the four predicted classes.**
 
-<img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/Results.PNG" width = "800">
+<img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/Results.PNG" width = "600">
 
 **Of these, desicion trees gave the best accuracy (88.29%). <br>
 However, the highest Receiver Operating Characteristic (ROC) curve area of 0.78 was obtained using Support Vector Machine with Radial kernel.**
