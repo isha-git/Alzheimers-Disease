@@ -31,7 +31,7 @@ These methods predict associated genes or biomarkers. However, there are few rep
 Environment- Python 3.6, Windows 10
 
 # Dataset
-The dataset used in the above-mentioned research paper was taken from the <a href = "http://www.alzgene.org/"> AlzGene archive </a>. The training featurs include number of positive and negative Alzheimer's cases in control studies and family-based studies for 335 genes.
+The dataset used in the above-mentioned research paper was taken from the <a href = "http://www.alzgene.org/"> AlzGene archive </a>. The training features include number of positive and negative Alzheimer's cases in control studies and family-based studies for 335 genes.
 
 <img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/DatasetScreenshot.PNG" width = "500">
 
@@ -53,7 +53,8 @@ The followed algorithms were trained on the given dataset-
 
 <img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/Results.PNG" width = "800">
 
-Of these, desicion trees gave the best accuracy (88.29%). However, the highest Receiver Operating Characteristic (ROC) curve area of 0.78 was obtained using Radial kernel.
+**Of these, desicion trees gave the best accuracy (88.29%). <br>
+However, the highest Receiver Operating Characteristic (ROC) curve area of 0.78 was obtained using Support Vector Machine with Radial kernel.**
 
 # Team Members
 The project was developed with <a href = "https://github.com/jagriti04">Jagriti</a> and <a href="https://github.com/shripriyamaheshwari">Shripriya Maheshwari</a> for the Machine Learning course (CS314b) at the Indian Instiute of Information Technology, Design and Manufacturing, Jabalpur, India.
