@@ -61,5 +61,5 @@ However, the highest Receiver Operating Characteristic (ROC) curve area of 0.78 
 
 Note- The results on Support Vector Machine using R library were provided in the paper and were not reproduced by us.
 
-# Team Members
-The project was developed with <a href = "https://github.com/jagriti04">Jagriti</a> and <a href="https://github.com/shripriyamaheshwari">Shripriya Maheshwari</a> for the Machine Learning course (CS314b) at the Indian Instiute of Information Technology, Design and Manufacturing, Jabalpur, India.
+<!--# Team Members
+The project was developed with <a href = "https://github.com/jagriti04">Jagriti</a> and <a href="https://github.com/shripriyamaheshwari">Shripriya Maheshwari</a> for the Machine Learning course (CS314b) at the Indian Instiute of Information Technology, Design and Manufacturing, Jabalpur, India.>
