@@ -26,9 +26,8 @@ The aim is to divide the genes into five classes, namely C1-AD: probable pathoge
 3. Sklearn <br>
 4. Pandas <br>
 5. Pylab <br>
-6. CSV <br>
-7. Matplotlib <br>
-8. Itertools <br>
+6. Matplotlib <br>
+7. Itertools <br>
 
 Environment- Python 3.6, Windows 10
 
@@ -37,7 +36,7 @@ The dataset used in the above-mentioned research paper was taken from the <a hre
 
 <img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/DatasetScreenshot.PNG" width = "500">
 
-The lack of sufficient data samples make it difficult to train the model, and makes it prone to overfitting.
+The lack of sufficient data samples make it difficult to train the model. Accordingly, regularization has been used to prevent overfitting. <br>
 For training purposes, 33% of the data was used for testing.
 
 # Results
