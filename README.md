@@ -52,6 +52,8 @@ The followed algorithms were trained on the given dataset-
 
 5. Decision Trees
 
+**The algorithms were evaluated on micro average, macro average, and weighted average of their accuracy, precision, F-1 score and support results on the four predicted classes.**
+
 <img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/Results.PNG" width = "800">
 
 **Of these, desicion trees gave the best accuracy (88.29%). <br>
