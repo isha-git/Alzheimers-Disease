@@ -17,6 +17,19 @@ These methods predict associated genes or biomarkers. However, there are few rep
 
 <img src = "https://github.com/isha-git/Alzheimers-Disease/blob/master/Images/ResearchPaper.PNG" width = "800">
 
+# Libraries
+1. Numpy
+
+2. Scipy <br>
+3. Sklearn <br>
+4. Pandas <br>
+5. Pylab <br>
+6. CSV <br>
+7. Matplotlib <br>
+8. Itertools <br>
+
+Environment- Python 3.6, Windows 10
+
 # Dataset
 The dataset used in the above-mentioned research paper was taken from the <a href = "http://www.alzgene.org/"> AlzGene archive </a>. The training featurs include number of positive and negative Alzheimer's cases in control studies and family-based studies for 335 genes.
 
